@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @haumenphai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hello 👋, I'm haumenphai</h1>
 
-<!---
-haumenphai/haumenphai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<img width='50%' align="center" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif" width="130">
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/haumenphai?logo=GitHub&style=for-the-badge)
+
+- 🔭 I’m currently working on [Viindoo](https://viindoo.com/)
+- 👯 I’m looking to collaborate with **other content creators**
+
+## Github Stats : 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=haumenphai)
+
+![tanzila-abedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haumenphai&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haumenphai&theme=dracula)](https://github.com/haumenphai/github-readme-stats)
+<br/>
