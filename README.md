@@ -7,7 +7,9 @@
 <p align="center">
 <img width='50%' align="center" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif" width="130">
 <br>
+  
 - 🔭 I’m currently working on [Viindoo](https://viindoo.com/)
+  
 - 👯 I’m looking to collaborate with **other content creators**
 
 ## Github Stats : 
